@@ -1,0 +1,3 @@
+[submodule "modules/issue-tracking"]
+	path = modules/issue-tracking
+	url = https://github.com/sit-it/issue-tracking.git
